@@ -1,4 +1,4 @@
-Hostname
+Hostname [![Build Status](https://travis-ci.org/SimpliField/ansible-hostname.svg?branch=master)](https://travis-ci.org/SimpliField/ansible-hostname) [![Ansible Role](https://img.shields.io/ansible/role/10149.svg?maxAge=2592000)](https://galaxy.ansible.com/SimpliField/hostname/)
 =========
 
 Setup machine hostname
